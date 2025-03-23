@@ -85,7 +85,3 @@ Pay attention to class distribution. If the dataset is imbalanced, consider:
 Penalizing the majority class using class_weight adjustments.
 
 Applying oversampling or undersampling techniques to balance the dataset.
-
-📦 Project Delivery
-
-Final submission: Link to Google Colab Notebook
