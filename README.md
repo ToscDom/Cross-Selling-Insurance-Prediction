@@ -2,7 +2,7 @@
 
 📈 Project Overview
 
-AssurePredict is a leading insurance company specializing in innovative risk management solutions. This project aims to develop a predictive model to identify potential cross-selling opportunities by detecting existing customers who may be interested in purchasing an additional vehicle insurance policy.
+This project aims to develop a predictive model to identify potential cross-selling opportunities by detecting existing customers who may be interested in purchasing an additional vehicle insurance policy.
 
 🌐 Project Objective
 
@@ -18,7 +18,7 @@ Reduced marketing costs by minimizing ineffective campaign spending through prec
 
 📂 Dataset
 
-The dataset (downloadable here: Insurance Cross-Sell Dataset) contains detailed customer information and their insurance behavior.
+The dataset contains detailed customer information and their insurance behavior.
 
 Key Features:
 
@@ -76,12 +76,4 @@ A machine learning model will be developed to predict the probability of a custo
 
 📊 Conclusion
 
-This project will empower AssurePredict to leverage machine learning for efficient and targeted cross-selling opportunities. By adopting a data-driven approach to customer response prediction, the company can increase sales while improving customer satisfaction through more relevant and personalized offers.
-
-⚠ Key Considerations
-
-Pay attention to class distribution. If the dataset is imbalanced, consider:
-
-Penalizing the majority class using class_weight adjustments.
-
-Applying oversampling or undersampling techniques to balance the dataset.
+This project will empower to leverage machine learning for efficient and targeted cross-selling opportunities. By adopting a data-driven approach to customer response prediction, the company can increase sales while improving customer satisfaction through more relevant and personalized offers.
